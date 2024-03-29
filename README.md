@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lua
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me z_qa on discord
+- 📫 How to reach me, _shqiperia_ on discord
 
 <!---
 LeakedWare/LeakedWare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
